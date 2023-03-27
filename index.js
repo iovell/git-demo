@@ -1,6 +1,5 @@
 const _d = [
   {name: 'zs', age: 18, address: 'xxxxxx'},
-  {name: 'ls', age: 20, address: 'dxxxxxx'},
   {name: 'ww', age: 19, address: 'xxxxxxx'},
   {name: 'zl', age: 16, address: 'xxxxxxx'}
 ]
@@ -10,3 +9,5 @@ const dp = () => {
 }
 
 console.log(dp());
+
+// 测试
